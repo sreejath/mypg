@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\SSW.Hobbies.myPG.Website\", "SSW.Hobbies.myPG.Website\", "{73BE7B2D-FE92-4C68-9EA7-6443C838FE64}"
 	ProjectSection(WebsiteProperties) = preProject
-		ProjectReferences = "{B61A6A5C-AF15-4EDA-9F42-D64C2D611AFA}|myPG.BL.dll;"
+		ProjectReferences = ""
 		Debug.AspNetCompiler.VirtualPath = "/SSW.Hobbies.myPG.Website"
 		Debug.AspNetCompiler.PhysicalPath = "SSW.Hobbies.myPG.Website\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SSW.Hobbies.myPG.Website\"

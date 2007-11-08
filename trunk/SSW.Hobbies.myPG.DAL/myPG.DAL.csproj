@@ -28,12 +28,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Google.GData.Photos, Version=1.1.0.0, Culture=neutral, PublicKeyToken=a25b50f2e8e3887a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Google\Google.GData.Photos.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="GoogleAlbum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

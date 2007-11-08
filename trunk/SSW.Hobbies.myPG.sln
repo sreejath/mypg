@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\SSW.Hobbies.myPG.Website\", "SSW.Hobbies.myPG.Website\", "{73BE7B2D-FE92-4C68-9EA7-6443C838FE64}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/SSW.Hobbies.myPG.Website"
+		Debug.AspNetCompiler.PhysicalPath = "SSW.Hobbies.myPG.Website\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SSW.Hobbies.myPG.Website\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SSW.Hobbies.myPG.Website"
+		Release.AspNetCompiler.PhysicalPath = "SSW.Hobbies.myPG.Website\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SSW.Hobbies.myPG.Website\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4574"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BE7B2D-FE92-4C68-9EA7-6443C838FE64}.Debug|.NET.ActiveCfg = Debug|.NET
+		{73BE7B2D-FE92-4C68-9EA7-6443C838FE64}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

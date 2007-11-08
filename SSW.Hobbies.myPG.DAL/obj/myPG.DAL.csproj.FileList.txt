@@ -1,0 +1,5 @@
+bin\Debug\myPG.DAL.dll
+bin\Debug\myPG.DAL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\myPG.DAL.dll
+obj\Debug\myPG.DAL.pdb

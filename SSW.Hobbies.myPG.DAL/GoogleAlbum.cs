@@ -1,10 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Google.GData.Photos;
 
 namespace myPG.DAL
 {
-    public class Class1
+    class GoogleAlbum
     {
     }
 }

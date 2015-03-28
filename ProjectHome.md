@@ -1,0 +1,1 @@
+This will be a .NET web application that offers a single window view into images hosted with multiple online image gallery providers. This will enable the user to see all his online media in one location and also provides the option of adding functionality not currently supported by the individual providers.
